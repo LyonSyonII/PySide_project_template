@@ -1,0 +1,4 @@
+build
+*.spec
+src/window.py
+src/__pycache__/
